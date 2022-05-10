@@ -1,0 +1,5 @@
+# Project exclude paths
+/blogger-core/target/
+/blogger-ui/target/
+/blogger-util/target/
+/blogger-web/target/
